@@ -25,3 +25,4 @@
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
+}
